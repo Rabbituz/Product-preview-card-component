@@ -1,0 +1,22 @@
+body .card-container {
+    width: 600px;
+    height: 450px;
+    display: flex;
+}
+body .card-container picture {
+    width: 300px;
+    height: 450px;
+}
+body .card-container picture img {
+    max-width: 100%;
+    border-radius: 10px 0 0 10px;
+}
+body .card-container .container-text {
+    width: 300px;
+    height: 450px;
+    padding: 32px;
+}
+body .card-container .container-text button {
+    width: 236px;
+    height: 48px;
+}
