@@ -104,6 +104,7 @@ body .card-container .container-text button .container-button {
     height: 18px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 body .card-container .container-text button p {
     font-size: calc(14rem / 16);
